@@ -1,6 +1,7 @@
-/* @pjs preload="flag.png"; */ 
+/* @pjs preload = "flag.png"; */ 
 PImage img;
 PImage Guy;
+/* @pjs preload = "flag.png"; */ 
 
 void setup() {
   size(600,500);
