@@ -1,4 +1,4 @@
-//
+/* @pjs preload="flag.png"; */ 
 PImage img;
 PImage Guy;
 
@@ -13,5 +13,5 @@ void setup() {
 }
 
 void draw() {
- //image(Guy, mouseX-100, mouseY-200, 158, 225);
+ image(Guy, mouseX-100, mouseY-200, 158, 225);
 }
