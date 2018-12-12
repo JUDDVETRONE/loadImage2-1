@@ -1,4 +1,4 @@
-/* @pjs preload="flag.png"; */ 
+///* @pjs preload="flag.png"; */ 
 PImage img;
 PImage Guy;
 
